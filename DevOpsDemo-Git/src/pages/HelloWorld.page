@@ -1,0 +1,7 @@
+<apex:page >
+<h1>Welcome</h1>
+<p>16/8/2016 - p tag added</p>
+<p>Started Sprint1</p>
+<p>Developer1 added a new p tag</p>
+<p>Developer2 added a new p tag - missing line added</p>
+</apex:page>
